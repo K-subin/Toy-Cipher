@@ -45,3 +45,6 @@
 
 ### Run_TC20.py 실행화면
 ![tc9](https://user-images.githubusercontent.com/68969252/90109921-6ef38d00-dd87-11ea-921b-06cb935a7118.PNG)
+
+### BruthAttack.py 실행화면
+<img src="https://user-images.githubusercontent.com/68969252/91142535-e6acaa80-e6eb-11ea-8cfc-9f1f24158271.PNG" width="230">
