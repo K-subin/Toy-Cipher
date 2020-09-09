@@ -3,7 +3,8 @@
 - TC20 복호화 라이브러리 구현
 - TC20 암호화 복호화 실행 코드 구현
 - TC20 Brute Force Attack 구현
-- TC20 MITM 구현
+- TC20 MITM(Meet-in-the-Middle Attack) 구현
+- TC20 TMTO(Time Memory Trade Off) 구현
 
 ## TC20 구조
 ### TC20 블록암호
@@ -35,6 +36,8 @@
 ## TC20 공격
 - Brute Force Attack : Exhaustive key search (암호키 전수조사)
 - Meet-in-the-Middle Attack
+- Time Memory Trade Off
+- Slide Attack
 
 ## TC20 실행화면
 ### TC20_Enc_lib.py 실행화면
